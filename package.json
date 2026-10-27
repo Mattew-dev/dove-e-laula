@@ -1,0 +1,11 @@
+{
+  "name": "dove-e-laula",
+  "private": true,
+  "type": "module",
+  "description": "Trova le aule dell'Università della Calabria",
+  "scripts": {
+    "test": "node --test \"tests/*.test.mjs\"",
+    "valida": "node scripts/valida-dati.mjs",
+    "serve": "python3 -m http.server 8765"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Dov'è l'aula?",
+  "short_name": "Dov'è l'aula",
+  "description": "Cerca un'aula del campus Unical e scopri in che cubo si trova e come arrivarci.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f4",
+  "theme_color": "#0b6e5f",
+  "icons": [
+    { "src": "icons/icona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icona-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icona-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icona.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
